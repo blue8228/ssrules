@@ -1,59 +1,59 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2023-04-14 05:31",
-    "md5": "cc08924f36812101d97d42c438d394c7",
-    "count": "    5563"
+    "date": "2023-04-18 11:37",
+    "md5": "16d8f12fd3674e5eaf03a738cd4fa37e",
+    "count": "5558"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "50556739ec4273a2939e61a7de54437c",
-    "count": "    3604",
-    "count_ip": "8889845720",
+    "date": "2023-04-18 11:37",
+    "md5": "cadcafecf7f81516902271a867be4854",
+    "count": "3598",
+    "count_ip": "299907812",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
   "chnroute2": {
     "name": "chnroute2.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "ad340381965489f6342914db3963a3e1",
-    "count": "    6397",
-    "count_ip": "142088743050",
+    "date": "2023-04-18 11:37",
+    "md5": "129cb57658181d8948ace37f35bbca68",
+    "count": "6368",
+    "count_ip": "17534691524",
     "source": "ipip",
     "url": "https://github.com/firehol/blocklist-ipsets/blob/master/ipip_country/ipip_country_cn.netset"
   },
   "chnroute3": {
     "name": "chnroute3.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "0c28223b45a2a09a88781016eb37a4cb",
-    "count": "    8608",
-    "count_ip": "343168448",
+    "date": "2023-04-18 11:37",
+    "md5": "8a4521a14b03c8102f724885666b5254",
+    "count": "8610",
+    "count_ip": "343169212",
     "source": "apnic",
     "url": "http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "8c6e06be429f362fb6dacd63c2c515bf",
-    "count": "   64198"
+    "date": "2023-04-18 11:37",
+    "md5": "3b6602013e05a5cd322a41e117ac9f7d",
+    "count": "64198"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "47e7c811b21fd29029a11c8d5c839669",
-    "count": "     137"
+    "date": "2023-04-18 11:37",
+    "md5": "77be5ca1c9910bdbbc2d529811bee2d0",
+    "count": "137"
   },
   "google_china": {
     "name": "google_china.txt",
-    "date": "2023-04-14 05:31",
-    "md5": "be793a76112b26d687d4f854a09bf68a",
-    "count": "     161"
+    "date": "2023-04-18 11:37",
+    "md5": "982d00d6a3752bfbbde4ef2512bb678c",
+    "count": "161"
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2023-04-14 05:31",
+    "date": "2023-04-18 11:37",
     "md5": "576a8d266539be4d7885e665f9a3f7cf",
-    "count": "      81"
+    "count": "81"
   }
 }
